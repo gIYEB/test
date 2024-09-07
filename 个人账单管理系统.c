@@ -75,6 +75,7 @@ void recordincome()
 	fclose(fp);
 	printf("本次录入结束！\n"); 
 }
+//记录支出 
 void recordexpense()
 {
 	FILE *fp;
