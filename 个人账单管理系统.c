@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include <string.h>
-//第二次修改 
+//注释1
 struct people
 {
 	char id[20];
